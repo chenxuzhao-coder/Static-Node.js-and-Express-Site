@@ -1,0 +1,95 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A-Random-Quote-Generator",
+            "description": "You can access a random quote by pressing the button, and the quote updates every 20s",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://chenxuzhao-coder.github.io/A-Random-Quote-Generator/",
+            "github_link": "https://github.com/chenxuzhao-coder/A-Random-Quote-Generator",
+            "image_urls": [
+                "/static/images/rsz_p1.png",
+                "/static/images/rsz_p1-1.png",
+                "/static/images/rsz_p1-2.png",
+                "/static/images/rsz_p1-3.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Data-Pagination-and-Filtering",
+            "description": "9 students listed on the platform. You can search any one by inputting the letter, and you can also use pagination to choose any page",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://chenxuzhao-coder.github.io/Data-Pagination-and-Filtering/",
+            "github_link": "https://github.com/chenxuzhao-coder/Data-Pagination-and-Filtering",
+            "image_urls": [
+                "/static/images/rsz_p2.png",
+                "/static/images/rsz_p2-1.png",
+                "/static/images/rsz_p2-2.png",
+                "/static/images/rsz_p2-3.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive-form",
+            "description": "You need to input every information to register",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://chenxuzhao-coder.github.io/Interactive-form/",
+            "github_link": "https://github.com/chenxuzhao-coder/Interactive-form",
+            "image_urls": [
+                "/static/images/rsz_p3.png",
+                "/static/images/rsz_p3-1.png",
+                "/static/images/rsz_p3-2.png",
+                "/static/images/rsz_p3-3.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP-Game-Show-App",
+            "description": "Try to guess the phrase and input by clicking or typing",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://chenxuzhao-coder.github.io/OOP-Game-Show-App/",
+            "github_link": "https://github.com/chenxuzhao-coder/OOP-Game-Show-App",
+            "image_urls": [
+                "/static/images/rsz_p4.png",
+                "/static/images/rsz_p4-1.png",
+                "/static/images/rsz_p4-2.png",
+                "/static/images/rsz_p4-3.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public-API-Requests",
+            "description": "The employees come from an API, and everytime you refresh the page, the list changes. You can choose any employee to see details",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Fetch API"
+            ],
+            "live_link": "https://chenxuzhao-coder.github.io/Public-API-Requests/",
+            "github_link": "https://github.com/chenxuzhao-coder/Public-API-Requests",
+            "image_urls": [
+                "/static/images/rsz_p5.png",
+                "/static/images/rsz_p5-1.png",
+                "/static/images/rsz_p5-2.png",
+                "/static/images/rsz_p5-3.png"
+            ]
+        }
+    ]
+}
