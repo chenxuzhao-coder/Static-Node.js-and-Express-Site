@@ -42,12 +42,13 @@ app.use((req, res, next) => {
 app.use((err, req, res, next) => {
     if (err.status === 404) {
         res.status(err.status)
-        res.render('error', { err })
+        res.render('page-not-found')
     } else {
-        err.message = err.message
-        res.status(err.status)
+        err.message = err.message || 'something goes wrong here'
+        res.status(err.status || 500)
         res.render('error', { err })
     }
+    console.log(err.message)
 })
 
 

@@ -28,7 +28,7 @@ body {
 }
 
 article {
-  background: #fefefe;
+  background:  #fefefe;
 }
 
 h1,h2,h3,h4,h5,p{
@@ -63,7 +63,7 @@ a {
   min-width: 320px;
   height: 100%;
   min-height: 100%;
-  background: #fefefe;
+  background: gray;
 }
 
 .flex-row-wrap {
@@ -99,6 +99,8 @@ a {
 
 .box li {
   font-size: 13px;
+  color: blue;
+  font-weight: bolder;
 }
 
 
@@ -298,6 +300,7 @@ nav a span {
   padding: 0.85em 1em;
   background-color: #333;
   border: 1px solid transparent;
+  font-weight: bolder;
 }
 
 
