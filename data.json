@@ -25,7 +25,8 @@
             "technologies": [
                 "HTML",
                 "CSS",
-                "JavaScript"
+                "JavaScript",
+                "DOM"
             ],
             "live_link": "https://chenxuzhao-coder.github.io/Data-Pagination-and-Filtering/",
             "github_link": "https://github.com/chenxuzhao-coder/Data-Pagination-and-Filtering",
@@ -43,7 +44,8 @@
             "technologies": [
                 "HTML",
                 "CSS",
-                "JavaScript"
+                "JavaScript",
+                "Regular Expression"
             ],
             "live_link": "https://chenxuzhao-coder.github.io/Interactive-form/",
             "github_link": "https://github.com/chenxuzhao-coder/Interactive-form",
@@ -61,7 +63,8 @@
             "technologies": [
                 "HTML",
                 "CSS",
-                "JavaScript"
+                "JavaScript",
+                "Object-Oriented-Programming"
             ],
             "live_link": "https://chenxuzhao-coder.github.io/OOP-Game-Show-App/",
             "github_link": "https://github.com/chenxuzhao-coder/OOP-Game-Show-App",
@@ -80,6 +83,7 @@
                 "HTML",
                 "CSS",
                 "JavaScript",
+                "AJAX",
                 "Fetch API"
             ],
             "live_link": "https://chenxuzhao-coder.github.io/Public-API-Requests/",
